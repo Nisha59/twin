@@ -1,0 +1,5 @@
+I am a Master’s student in Artificial Intelligence with a strong foundation in Computer Science Engineering. My primary interest lies in developing impactful AI applications, particularly Retrieval-Augmented Generation (RAG) systems and purpose-driven AI agents.
+
+I actively experiment with Large Language Models (LLMs), exploring emerging tools, frameworks, and technologies to build practical, scalable solutions. In addition to AI development, I have solid knowledge of cloud platforms, particularly AWS, and I am continuously expanding my expertise in cloud-based AI deployment and architecture.
+
+As a self-motivated and curious learner, I enjoy exploring new technologies, building innovative solutions, and turning ideas into real-world applications.

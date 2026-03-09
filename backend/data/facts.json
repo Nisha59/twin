@@ -1,0 +1,21 @@
+{
+    "full_name": "Nisha Chavan",
+    "name": "Nisha",
+    "current_role": "Master's student in Artificial Intelligence",
+    "location": "Cottbus, Germany",
+    "email": "nisha.damu.chavan@gmail.com",
+    "linkedin": "linkedin.com/in/nisha-chavan-06b95a1b1",
+    "specialties": [
+      "Enterprise AI Solutions Architect",
+      "RAG & Agentic Systems Specialist",
+      "AWS Cloud AI Engineer"
+    ],
+    
+    "education": [
+      {
+        "degree": "Master's in Artificial Intelligence",
+        "institution": "BTU",
+        "year": "Present"
+      }
+    ]
+  }
